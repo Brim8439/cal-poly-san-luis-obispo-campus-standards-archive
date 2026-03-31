@@ -1,4 +1,4 @@
-# Campus Standards Archive
+# Cal Poly, San Luis Obispo Campus Standards Archive
 
 This repository contains archived editions of the Cal Poly, San Luis Obispo Construction Standards: Campus Standard Details and Campus Standard Specifications.
 
